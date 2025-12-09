@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>CFA du CNAM Saint-Denis - Actualités</title>
-    <link>https://cfa-idf.cnam.fr</link>
-    <description>Flux d'actualités du Centre de Formation d'Apprentis du CNAM en Île-de-France</description>
-    <language>fr-FR</language>
-    <lastBuildDate>Mon, 08 Dec 2025 10:00:00 +0100</lastBuildDate>
-    <atom:link href="https://cfa-idf.cnam.fr/rss" rel="self" type="application/rss+xml"/>
-    <image>
-      <url>https://cfa-idf.cnam.fr/medias/photo/logo-v6-cfa-2x-res.png</url>
-      <title>CFA du CNAM Île-de-France</title>
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>CFA du CNAM Saint-Denis - Actualités</title>
       <link>https://cfa-idf.cnam.fr</link>
-    </image>
+      <description>Flux d'actualités du Centre de Formation d'Apprentis du CNAM en Île-de-France</description>
+      <language>fr-FR</language>
+      <lastBuildDate>Mon, 08 Dec 2025 10:00:00 +0100</lastBuildDate>
+      <atom:link href="https://cfa-idf.cnam.fr/rss" rel="self" type="application/rss+xml"/>
+      <image>
+        <url>https://cfa-idf.cnam.fr/medias/photo/logo-v6-cfa-2x-res.png</url>
+        <title>CFA du CNAM Île-de-France</title>
+        <link>https://cfa-idf.cnam.fr</link>
+      </image>
 
-    <item>
-      <title>JPO CFA Cnam 2026 - Journée Portes Ouvertes à Saint-Denis</title>
-      <link>https://cfa-idf.cnam.fr/apprentis/jpo-cfa-cnam-2026-1581548.kjsp</link>
-      <description><![CDATA[<img src="https://cfa-idf.cnam.fr/medias/photo/banniere-site-jpo_1764346064185-jpg" alt="Journée Portes Ouvertes CFA Cnam" style="max-width:100%; height:auto; margin-bottom:10px;"/><p>Le CFA du Cnam et l'EICnam vous ouvrent leurs portes le samedi 7 février 2026 de 10h à 16h. Venez découvrir nos formations en alternance et notre campus à La Plaine Saint-Denis ! C'est l'occasion idéale de rencontrer nos conseillers, enseignants et apprentis pour échanger sur votre projet professionnel.</p>]]></description>
-      <pubDate>Sat, 07 Feb 2026 10:00:00 +0100</pubDate>
-      <guid isPermaLink="true">https://cfa-idf.cnam.fr/apprentis/jpo-cfa-cnam-2026-1581548.kjsp</guid>
-      <category>Événement</category>
-      <enclosure url="https://cfa-idf.cnam.fr/medias/photo/banniere-site-jpo_1764346064185-jpg" type="image/jpeg" length="524288"/>
-    </item>
+      <item>
+        <title>JPO CFA Cnam 2026 - Journée Portes Ouvertes à Saint-Denis</title>
+        <link>https://cfa-idf.cnam.fr/apprentis/jpo-cfa-cnam-2026-1581548.kjsp</link>
+        <description><![CDATA[<img src="https://cfa-idf.cnam.fr/medias/photo/banniere-site-jpo_1764346064185-jpg" alt="Journée Portes Ouvertes CFA Cnam" style="max-width:100%; height:auto; margin-bottom:10px;"/><p>Le CFA du Cnam et l'EICnam vous ouvrent leurs portes le samedi 7 février 2026 de 10h à 16h. Venez découvrir nos formations en alternance et notre campus à La Plaine Saint-Denis ! C'est l'occasion idéale de rencontrer nos conseillers, enseignants et apprentis pour échanger sur votre projet professionnel.</p>]]></description>
+        <pubDate>Sat, 07 Feb 2026 10:00:00 +0100</pubDate>
+        <guid isPermaLink="true">https://cfa-idf.cnam.fr/apprentis/jpo-cfa-cnam-2026-1581548.kjsp</guid>
+        <category>Événement</category>
+        <enclosure url="https://cfa-idf.cnam.fr/medias/photo/banniere-site-jpo_1764346064185-jpg" type="image/jpeg" length="524288"/>
+      </item>
 
-    <item>
-      <title>Bonne rentrée à toutes et à tous !</title>
-      <link>https://cfa-idf.cnam.fr/apprentis/bonne-rentree-a-toutes-et-a-tous--1567468.kjsp</link>
-      <description><![CDATA[<img src="https://cfa-idf.cnam.fr/medias/photo/bandeau-rentree-site_1756370113032-jpg" alt="Rentrée 2025-2026 CFA Cnam" style="max-width:100%; height:auto; margin-bottom:10px;"/><p>Toute l'équipe du CFA du Cnam est ravie de vous retrouver pour cette nouvelle année 2025-2026 ! Nous serons à vos côtés tout au long de cette aventure pour vous accompagner, vous encourager et vous aider à relever chaque défi. Découvrez toutes les dates de rentrée du 1er septembre au 30 septembre 2025.</p>]]></description>
-      <pubDate>Mon, 01 Sep 2025 09:00:00 +0200</pubDate>
-      <guid isPermaLink="true">https://cfa-idf.cnam.fr/apprentis/bonne-rentree-a-toutes-et-a-tous--1567468.kjsp</guid>
-      <category>Vie étudiante</category>
-      <enclosure url="https://cfa-idf.cnam.fr/medias/photo/bandeau-rentree-site_1756370113032-jpg" type="image/jpeg" length="485632"/>
-    </item>
+      <item>
+        <title>Bonne rentrée à toutes et à tous !</title>
+        <link>https://cfa-idf.cnam.fr/apprentis/bonne-rentree-a-toutes-et-a-tous--1567468.kjsp</link>
+        <description><![CDATA[<img src="https://cfa-idf.cnam.fr/medias/photo/bandeau-rentree-site_1756370113032-jpg" alt="Rentrée 2025-2026 CFA Cnam" style="max-width:100%; height:auto; margin-bottom:10px;"/><p>Toute l'équipe du CFA du Cnam est ravie de vous retrouver pour cette nouvelle année 2025-2026 ! Nous serons à vos côtés tout au long de cette aventure pour vous accompagner, vous encourager et vous aider à relever chaque défi. Découvrez toutes les dates de rentrée du 1er septembre au 30 septembre 2025.</p>]]></description>
+        <pubDate>Mon, 01 Sep 2025 09:00:00 +0200</pubDate>
+        <guid isPermaLink="true">https://cfa-idf.cnam.fr/apprentis/bonne-rentree-a-toutes-et-a-tous--1567468.kjsp</guid>
+        <category>Vie étudiante</category>
+        <enclosure url="https://cfa-idf.cnam.fr/medias/photo/bandeau-rentree-site_1756370113032-jpg" type="image/jpeg" length="485632"/>
+      </item>
 
-    <item>
-      <title>Webinaire RH - Alternance : les changements à connaître en 2025</title>
-      <link>https://cfa-idf.cnam.fr/entreprises/alternance-les-changements-a-connaitre-en-2025-1572323.kjsp</link>
-      <description><![CDATA[<img src="https://cfa-idf.cnam.fr/medias/photo/vignette-webinaire-rh_1758122877537-jpg" alt="Webinaire RH Alternance 2025" style="max-width:100%; height:auto; margin-bottom:10px;"/><p>Contractualisation, obligations légales, rémunération - découvrez les changements en 2025 qui impactent les entreprises. Cette année, plusieurs évolutions en alternance concernent les employeurs. Nous vous donnons des informations claires et répondons à vos questions en direct lors de ce webinaire dédié aux professionnels RH.</p>]]></description>
-      <pubDate>Wed, 25 Sep 2025 14:00:00 +0200</pubDate>
-      <guid isPermaLink="true">https://cfa-idf.cnam.fr/entreprises/alternance-les-changements-a-connaitre-en-2025-1572323.kjsp</guid>
-      <category>Entreprises</category>
-      <enclosure url="https://cfa-idf.cnam.fr/medias/photo/vignette-webinaire-rh_1758122877537-jpg" type="image/jpeg" length="512000"/>
-    </item>
+      <item>
+        <title>Webinaire RH - Alternance : les changements à connaître en 2025</title>
+        <link>https://cfa-idf.cnam.fr/entreprises/alternance-les-changements-a-connaitre-en-2025-1572323.kjsp</link>
+        <description><![CDATA[<img src="https://cfa-idf.cnam.fr/medias/photo/vignette-webinaire-rh_1758122877537-jpg" alt="Webinaire RH Alternance 2025" style="max-width:100%; height:auto; margin-bottom:10px;"/><p>Contractualisation, obligations légales, rémunération - découvrez les changements en 2025 qui impactent les entreprises. Cette année, plusieurs évolutions en alternance concernent les employeurs. Nous vous donnons des informations claires et répondons à vos questions en direct lors de ce webinaire dédié aux professionnels RH.</p>]]></description>
+        <pubDate>Wed, 25 Sep 2025 14:00:00 +0200</pubDate>
+        <guid isPermaLink="true">https://cfa-idf.cnam.fr/entreprises/alternance-les-changements-a-connaitre-en-2025-1572323.kjsp</guid>
+        <category>Entreprises</category>
+        <enclosure url="https://cfa-idf.cnam.fr/medias/photo/vignette-webinaire-rh_1758122877537-jpg" type="image/jpeg" length="512000"/>
+      </item>
 
-  </channel>
-</rss>
+    </channel>
+  </rss>
