@@ -1,6 +1,6 @@
 <?php
 // URL du flux RSS
-$rss_url = "http://xifar08.github.io/rss_test/rss_cnam.rss";
+$rss_url = "https://xifar08.github.io/rss_test/rss_cnam.rss";
 
 // Chargement du flux RSS
 $rss = simplexml_load_file($rss_url);
